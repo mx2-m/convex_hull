@@ -5,4 +5,4 @@ The program allows the user to calculate the convex hull over a group of points 
 * Quick hull
 
 ## App demo
-<img src="img.png" alt="alt text" />
+![ Alt text](Animation.gif) 
