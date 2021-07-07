@@ -1,8 +1,8 @@
-# Konveksni omotac
-Program omogucava uporabniku racunanje konveksnog omotaca nad skupinom tocki uz pomoc algoritama:
+# Convex hull
+The program allows the user to calculate the convex hull over a group of points with the help of algorithms:
 * Jarvis march
 * Graham's scann
 * Quick hull
 
-## Izgled app
+## App demo
 <img src="img.png" alt="alt text" />
